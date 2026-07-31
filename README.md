@@ -1,4 +1,4 @@
-# Curso Python Simples
+# Curso Python Fundamentos
 
 Repositório criado para acompanhar meus estudos de Python, desenvolvendo os exemplos e exercícios propostos durante o curso.
 
